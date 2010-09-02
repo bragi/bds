@@ -69,3 +69,12 @@ Badz cierpliwy i wysłuchaj jego racji. Będzie się tłumaczył - pozwól mu na
 Jeśli chcesz to zdenerwuj się. Dobry moment na nerwy jest pomiędzy przyznaniem się do błędu a próbą wytłumaczenia. Drugi, trochę gorszy, jest po tym jak pracownik się wytłumaczy. Pamiętaj jednak, żeby dalej poprowadzić sprawę tak jak opisałem, pokazać mu wsparcie i chęć do pomocy.
 
 Gdy po raz kolejny popełni błąd, powtórz proces. Niektórzy powoli uczą się, że wolno im popełniać błędy.
+
+Bądź mentorem
+=============
+
+Młody programista ma wiele pomysłów. Chce wiele osiągnąć na raz - tu i teraz. Widzi efekty długotrwałych przemyśleń w istniejącym oprogramowaniu. Nie wie, które rzeczy są ważne. Które powstały na skutek przemyśleń. Które ewoluowały.
+
+Dobry mentor siada z młodym programistą i słucha. Gdy usłyszy nowy pomysł, mówi "zapisz to na kartce, pogadamy o tym jak skończymy z aktualnym zadaniem". Gdy zadanie jest skończone zmusza młodego programistę do przejrzenia kartek. Mentor uczy, że pomysły trzeba porządkować, ustalać ich ważność. Uczy, że pomysły muszą czekać na swoją implementację. Uczy, że pomysły trzeba zapisać. Uczy, że trzeba skupić się na aktualnym zadaniu.
+
+Dobry mentor nie hamuje kreatywności. Dobry mentor uczy jak ją okiełznać i pokazuje gdzie jej miejsce w procesie rozwoju oprogramowania.
