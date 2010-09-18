@@ -1,5 +1,5 @@
 Bądź dobrym szefem
-------------------
+==================
 
 Chcesz zostać szefem. Albo już nim jesteś. Albo może zmuszają Cię do bycia szefem. Cóż począć.
 
@@ -8,7 +8,7 @@ Skoro już masz być szefem to bądź dobrym szefem. Ludzie będą Cię szanowa�
 Zasady są proste i wydają się oczywiste. Warto jednak przyjrzeć się im z bliska - ot tak, dla przypomnienia.
 
 Bądź sobą
-=========
+---------
 
 Niektórzy gdy zostaną szefem zaczynają zachowywać się jak szef. A właściwie jak im się wydaje, że szef powinien się zachowywać.
 
@@ -27,20 +27,20 @@ Myśląc ciągle o tym jakim powinieneś być jako szef zajmujesz swój umysł. 
 Więc bądź sobą. Pomoże to Twojemu wizerunkowi i zyska szacunek pracowników.
 
 Bądź otwarty
-============
+------------
 
 Chwal krytyków
-==============
+--------------
 
 Każda konstruktywna krytyka jest wartościowa - nawet jeśli się z nią nie zgadzasz. Pracownik krytykujący szefa w twarz jest bardzo wartościowy.
 
 Oddawaj władzę
-==============
+--------------
 
 Jeśli zatrzymasz władzę dla siebie będziesz musiał ją co dzień wykorzystywać. Łatwiej jest podzielić się nią. Oddaj swoim podwaładnym władzę nad nimi samymi. Pozwól im na samodzielność i szanuj ich odpowiedzialność.
 
 Popelniaj bledy.
-=============
+----------------
 
 Pozwol sobie na bledy. I tak ich nie unikniesz. Raczej pogodz sie z ich nieuchronnoscia, przyjmij je jako cos normalnego i codziennego. Nie probuj byc idealnym - nie uda Ci sie to.
 
@@ -71,10 +71,22 @@ Jeśli chcesz to zdenerwuj się. Dobry moment na nerwy jest pomiędzy przyznanie
 Gdy po raz kolejny popełni błąd, powtórz proces. Niektórzy powoli uczą się, że wolno im popełniać błędy.
 
 Bądź mentorem
-=============
+-------------
 
 Młody programista ma wiele pomysłów. Chce wiele osiągnąć na raz - tu i teraz. Widzi efekty długotrwałych przemyśleń w istniejącym oprogramowaniu. Nie wie, które rzeczy są ważne. Które powstały na skutek przemyśleń. Które ewoluowały.
 
 Dobry mentor siada z młodym programistą i słucha. Gdy usłyszy nowy pomysł, mówi "zapisz to na kartce, pogadamy o tym jak skończymy z aktualnym zadaniem". Gdy zadanie jest skończone zmusza młodego programistę do przejrzenia kartek. Mentor uczy, że pomysły trzeba porządkować, ustalać ich ważność. Uczy, że pomysły muszą czekać na swoją implementację. Uczy, że pomysły trzeba zapisać. Uczy, że trzeba skupić się na aktualnym zadaniu.
 
 Dobry mentor nie hamuje kreatywności. Dobry mentor uczy jak ją okiełznać i pokazuje gdzie jej miejsce w procesie rozwoju oprogramowania.
+
+Zarób na pracowniku pierwszego dnia
+-----------------------------------
+
+Gdy przyjmujesz nowego pracownika zacznij na nim zarabiać od pierwszego dnia. Daj mu od razu zadania, z których będziesz miał zysk. Jeśli musi się uczyć to niech uczy się w locie (i popełnia błędy!).
+
+Zatrudniając pracownika 'na zapas' i dając mu czas 'na naukę' osiągasz dwa złe cele. Przede wszystkim demoralizujesz pracownika. Jednocześnie wywołujesz w sobie uczucie, że pracownik jest Ci coś winien. Przecież na razie tylko się uczył i jeszcze na sobie nie zarobił. W ten sposób przekonujesz siebie, że pracownik jest Ci coś winien.
+
+Pozwól pracownikowi odejść
+--------------------------
+
+Pogódź się z myślą, że pracownik odejdzie. 
