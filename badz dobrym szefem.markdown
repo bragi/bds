@@ -79,6 +79,13 @@ Dobry mentor siada z młodym programistą i słucha. Gdy usłyszy nowy pomysł, 
 
 Dobry mentor nie hamuje kreatywności. Dobry mentor uczy jak ją okiełznać i pokazuje gdzie jej miejsce w procesie rozwoju oprogramowania.
 
+Bądź wsparciem
+--------------
+
+Wielu zdolnych programistów ma problemy w tzw. "normalnym życiu". Daj poznać, że zawsze jesteś dostępny i chętny pomóc (oczywiście na swoich własnych warunkach). Oczywiście nie rozwiązuj problemów za daną osobę - wskaż raczej na proste kroki, które mogą pomóc w zmianie istniejącej negatywnej sytuacji.
+
+Zyskasz w ten sposób lojalność i oddanie dla swojej organizacji. W praktyce wygląda to tak, że nawet gdy ktoś zaoferuje +50% więcej kasy dla danego developera zostanie on przy Tobie (co najwyżej poprosi o podwyżkę).
+
 Zarób na pracowniku pierwszego dnia
 -----------------------------------
 
@@ -89,4 +96,4 @@ Zatrudniając pracownika 'na zapas' i dając mu czas 'na naukę' osiągasz dwa z
 Pozwól pracownikowi odejść
 --------------------------
 
-Pogódź się z myślą, że pracownik odejdzie. 
+Pogódź się z myślą, że pracownik odejdzie.
